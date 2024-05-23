@@ -1,0 +1,15 @@
+Requirements:
+
+Computer with at least 8 GB RAM (16 GB preferred)
+Virtualization software (VMware Workstation, VirtualBox)
+Kali Linux VM (attacker machine)
+Metasploitable VM (target machine)
+
+Setup:
+
+Install Virtualization Software: Download and install VMware Workstation or VirtualBox.
+Download VMs:
+Kali Linux: Kali Linux Download
+Metasploitable: Metasploitable Download
+Configure Network: Set both VMs to use a host-only or internal network.
+Launch VMs: Start both the Kali Linux and Metasploitable VMs.
